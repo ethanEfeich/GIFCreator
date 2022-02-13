@@ -1,2 +1,5 @@
+import window
+
+
 if __name__ == '__main__':
- print("hi")
+    window.create_window()
